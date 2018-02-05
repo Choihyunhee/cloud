@@ -1,6 +1,6 @@
 var webSocketUrl = "wss://api.artik.cloud/v1.1/websocket?ack=true";
-var device_id = "670294e0710042e9b59a3a614540f3c0";
-var device_token = "2be1d0acc2ce4fd086cfcc8f4d55b424";
+var device_id = "";
+var device_token = "";
 var LED_PIN = 28;
 
 var WebSocket = require('ws');
